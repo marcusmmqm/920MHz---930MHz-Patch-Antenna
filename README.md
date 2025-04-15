@@ -1,1 +1,1 @@
-Download this file and open it with ANSYS HFSS
+Download this file and open it with ANSYS HFSS.
